@@ -3,24 +3,26 @@
 This project is to create a small fractal exploration program.
 
 Easy start
-
-> make
-
-> ./fractol julia
-
+```
+make
+```
+```
+./fractol julia
+```
 ![N|Solid](https://raw.githubusercontent.com/ykondrat/fractol/master/example/julia.png)
-
-> ./fractol mandelbrot
-
+```
+./fractol mandelbrot
+```
 ![N|Solid](https://raw.githubusercontent.com/ykondrat/fractol/master/example/mandelbrot.png)
-
-> ./fractol sierpinski
-
+```
+./fractol sierpinski
+```
 ![N|Solid](https://raw.githubusercontent.com/ykondrat/fractol/master/example/sierpinski.png)
-
-> ./fractol burningship
-
+```
+./fractol burningship
+```
 ![N|Solid](https://raw.githubusercontent.com/ykondrat/fractol/master/example/burningship.png)
 
-Ppress A R G B to change color of fractal.
-Use arrows to move fractal and mouse scroll to zoom it.
+> Press A R G B to change color of fractal.
+
+> Use arrows to move fractal and mouse scroll to zoom it.
